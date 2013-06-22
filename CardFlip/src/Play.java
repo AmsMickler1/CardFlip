@@ -103,7 +103,7 @@ public class Play extends BasicGameState
 		}
 		
 		
-		//Checks if you've flipped a bomb card. Probably should've gone up there ^^ but its a bit late now, lol
+		//Checks if you've flipped a bomb card. Should move up there ^
 		for (int r = 0; r < 5; r++)
 		{
 			for (int c = 0; c < 5; c++)
